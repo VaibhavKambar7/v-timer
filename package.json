@@ -14,12 +14,12 @@
   "contributes": {
     "commands": [
       {
-        "command": "v-timer.startTimer",
-        "title": "Start V Timer"
+        "command": "v-timer.toggleTimer",
+        "title": "Start/Pause V Timer"
       },
       {
-        "command": "v-timer.stopTimer",
-        "title": "Stop V Timer"
+        "command": "v-timer.resetTimer",
+        "title": "Reset V Timer"
       }
     ]
   },
